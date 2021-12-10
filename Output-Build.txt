@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: UnitTest1, Configuration: Debug x64 ------
+1>UnitTest1.cpp
+1>C:\Users\LENOVO\source\repos\8.1.4\source.cpp(27): warning C4715: 'Count': not all control paths return a value
+1>C:\Users\LENOVO\source\repos\8.1.4\source.cpp(40): warning C4715: 'Change': not all control paths return a value
+1>UnitTest1.vcxproj -> C:\Users\LENOVO\source\repos\8.1.4\x64\Debug\UnitTest1.dll
+1>Done building project "UnitTest1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
